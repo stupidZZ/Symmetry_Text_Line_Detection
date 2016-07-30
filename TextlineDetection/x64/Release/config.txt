@@ -1,0 +1,16 @@
+C:/Users/Administrator/Desktop/text detection/dataset/ICDAR2011/
+0
+800
+3
+3
+8
+15
+0.2
+3000
+2000
+32
+32
+58
+0.7853
+16
+2
